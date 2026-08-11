@@ -8,7 +8,7 @@ Java coursework from Software I.
 - **NaturalNumberCalculator** — Swing calculator for large-number arithmetic.
 - **NaturalNumberRoot** — Computes the nth root of a number using binary search.
 - **Newton** — Approximates square roots using Newton's method.
-- **Pseudoscience** — 
+- **Pseudoscience** — Approximates a mathematical constant using the de Jager formula by searching over combinations of four exponents.
 - **RSSAggregator** — Combines multiple RSS feeds into one HTML page.
 - **RSSReader** — Parses an RSS feed and outputs formatted content.
 - **StringReassemblyFromFragments** — Reconstructs a string from overlapping fragments.
